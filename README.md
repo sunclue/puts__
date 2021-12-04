@@ -7,7 +7,7 @@ puts__.h 头文件
 ---------------------
 makefile makefile文件
 --------------------
-hello.c hello，world源码
+hello.c hello,world源码
 ------------------------
 hello.png 程序运行时截图
 -----------------------
